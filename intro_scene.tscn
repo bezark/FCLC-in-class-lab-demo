@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://cp0hd2y3x8tsg"]
+
+[ext_resource type="Texture2D" uid="uid://bac5tkntme4e5" path="res://Pasted image.png" id="1_7sc33"]
+
+[node name="IntroScene" type="Node2D"]
+
+[node name="Puppy" type="Sprite2D" parent="."]
+position = Vector2(557.875, 385.244)
+scale = Vector2(0.348039, 0.348039)
+texture = ExtResource("1_7sc33")
